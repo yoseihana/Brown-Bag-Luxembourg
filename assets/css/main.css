@@ -24,7 +24,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Montserrat', sans-serif;
     font-weight: 700;
-    color: #333;
+    color: #ed2939;
 }
 
 h1 {
@@ -48,7 +48,7 @@ p {
 
 /* Links */
 a {
-    color: #1abc9c;
+    color: #00A1DE;
     word-wrap: break-word;
 
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -95,8 +95,8 @@ a:after {
 }
 
 .navbar-inverse {
-	background-color: #1abc9c;
-	border-color: #16a085;
+	background-color: #00A1DE;
+	border-color: #00A1DE;
 }
 
 .navbar-inverse .navbar-nav > li > a {
@@ -122,7 +122,7 @@ a:after {
 }
 
 .progress-bar-theme {
-  background-color: #1abc9c;
+  background-color: #00A1DE;
 }
 
 
@@ -238,5 +238,5 @@ bt {
 
 .glyphicon {
 	font-size: 40px;
-	color: #1abc9c;
+	color: #00A1DE;
 }
