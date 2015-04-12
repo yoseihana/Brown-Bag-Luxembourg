@@ -1,0 +1,19 @@
+{
+  "name": "Brown-Bag-Luxembourg",
+  "authors": [
+    "yoseihana <anna.buffart@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "~0.2.13",
+    "angular": "~1.3.15"
+  }
+}
